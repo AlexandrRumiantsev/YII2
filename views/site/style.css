@@ -1,0 +1,81 @@
+body {
+	font-size: 14px;
+}
+header {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
+#cart a {
+	float: right;
+	font-size: 40px;
+}
+#cart div {
+	
+	float: left;
+	width: 80%;
+}
+#cart div p {
+	text-align: right;
+}
+#cart {
+	padding-top: 15px;
+}
+#logo {
+	font-size: 4.0rem;
+}
+#logo:hover {
+	text-decoration: none;
+}
+.logo span {
+	font-size: 1.3rem;
+	display: block;
+	margin-top: -10px;
+	padding-left: 3px;
+	color: #666;
+}
+#contacts {
+	padding-left:100px;
+	padding-top: 10px;
+}
+#contacts p {
+	padding: 0px;
+	margin: 1px;
+}	
+footer {
+	margin-top: 30px;
+	background: #bbb;
+	min-height: 140px;
+	color: #fff;
+}
+#carousel-example-generic {
+	margin-bottom: 20px;
+}
+.popular-products {
+}
+.popular-item {
+	padding-top:20px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.popular-item h4 a {
+	font-size: 80%;
+}
+.popular-item h4 {
+	min-height: 60px;
+}
+.popular-item img {
+	width: 100%;
+}
+.popular-item span {
+	display: block;
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-size: 1.9rem;
+}
+
